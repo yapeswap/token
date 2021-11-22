@@ -62,7 +62,7 @@ contract YapeDaoToken is ERC20Interface, SafeMath {
         symbol = "YAPE";
         name = "YAPE DAO TOKEN";
         decimals = 18;
-        _totalSupply = 10000000000000000000000000000;
+        _totalSupply = 1000000000000000000000000000;
         balances[0x57BbDb1041DDbb1174F509C5C54c989B6F6f0baF] = Enter Value + 18 zeros;
 
         emit Transfer(address(0), 0x57BbDb1041DDbb1174F509C5C54c989B6F6f0baF, same value as 68);
