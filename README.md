@@ -1,5 +1,5 @@
 # token
-FRAK (Fraktal DAO Token)
+YAPE (Yape DAO Token)
 
 Network: Ethereum
 Type: ERC-20
